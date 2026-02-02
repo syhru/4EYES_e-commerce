@@ -59,11 +59,7 @@ A full-stack e-commerce web application for **4EYES** clothing brand, built with
 
 ## 📸 Screenshots
 
-> _Add your screenshots here_
-
-```
-Coming soon...
-```
+ <img src="./assets/images/4EYESSTORE.png" style="width: 100%; height: 50%;"/>
 
 ---
 
